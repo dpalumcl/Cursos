@@ -5,3 +5,5 @@
 - En este lugar dejaré los ejemplos y pruebas de los cursos
 - creacion del archivo stylecurso.css
 - primera lineas de structura del html
+- ademas de probar los programas git, github desktop 
+- para mac y linux
