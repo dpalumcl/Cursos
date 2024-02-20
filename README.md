@@ -13,3 +13,6 @@
 
 - estoy probando que las modificaciones en la web git 
 - se repliquen en los archivos locales 
+
+- ahora funciona bien.  empeze de nuevo creando el repositorio
+- local de nuevo en otra carpeta
