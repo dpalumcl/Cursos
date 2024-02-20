@@ -9,7 +9,7 @@
 - para mac y linux
 - y es posible que tambien lo instale en algun windows
 - 
-
+- esta linea es de prueba desde web
 
 - esta otra linea de prueba desde el pc
 
