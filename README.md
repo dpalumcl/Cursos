@@ -9,3 +9,7 @@
 - para mac y linux
 - y es posible que tambien lo instale en algun windows
 - 
+
+
+- estoy probando que las modificaciones en la web git 
+- se repliquen en los archivos locales 
