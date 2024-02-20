@@ -8,8 +8,7 @@
 - ademas de probar los programas git, github desktop 
 - para mac y linux
 - y es posible que tambien lo instale en algun windows
-- 
-<<<<<<< Updated upstream
+  
 - esta linea es de prueba desde web
 
 - esta otra linea de prueba desde el pc
@@ -19,10 +18,10 @@
 
 - ahora funciona bien.  empeze de nuevo creando el repositorio
 - local de nuevo en otra carpeta
-=======
+
 - al  final me sale un error en git que no se porque
 - me sale mas rapido clonar de nuevo
->>>>>>> Stashed changes
 
-creo que ahora funciona, cuando grabo todo lo ideal que solo uno de los programas este abierto al realizar comentarios y actualizaciones
+``` creo que ahora funciona ```   
+- cuando grabo todo lo ideal que solo uno de los programas este abierto al realizar comentarios y actualizaciones
 
