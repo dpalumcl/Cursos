@@ -7,3 +7,5 @@
 - primera lineas de structura del html
 - ademas de probar los programas git, github desktop 
 - para mac y linux
+- y es posible que tambien lo instale en algun windows
+- 
