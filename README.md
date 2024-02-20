@@ -11,6 +11,8 @@
 - 
 
 
+- esta otra linea de prueba desde el pc
+
 - estoy probando que las modificaciones en la web git 
 - se repliquen en los archivos locales 
 
