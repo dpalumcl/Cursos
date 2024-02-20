@@ -23,3 +23,6 @@
 - al  final me sale un error en git que no se porque
 - me sale mas rapido clonar de nuevo
 >>>>>>> Stashed changes
+
+creo que ahora funciona, cuando grabo todo lo ideal que solo uno de los programas este abierto al realizar comentarios y actualizaciones
+
