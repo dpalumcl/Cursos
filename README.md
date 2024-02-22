@@ -28,3 +28,5 @@
 - hoy martes, sigo probando el funcionamiento de estas herramientas
 - pero ya hace hambre y la hora de almorzar  se acerca y todavia no tomo desayuno
 
+- 22-2-2024  desde casa pero ya a dormir.  
+
