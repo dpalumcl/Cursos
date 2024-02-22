@@ -1,32 +1,14 @@
 
-``` Lugar de pruebas de ejemplos y desafios  ```
+``` Lugar de pruebas para unir los ejemplos creados en clases  ```
 ``` de los cursos de Alura Latam  ```
 
-- En este lugar dejaré los ejemplos y pruebas de los cursos
-- creacion del archivo stylecurso.css
-- primera lineas de structura del html
-- ademas de probar los programas git, github desktop 
-- para mac y linux
-- y es posible que tambien lo instale en algun windows
-  
-- esta linea es de prueba desde web
+- la idea es que de esta pagina pueda acceder a la pagina de cada clase
 
-- esta otra linea de prueba desde el pc
+- en todas las clases se continua con la misma pagina
+- solo que en cada clase se va avanzado hasta llegar a la version
+- terminada en la ultima clase
 
-- estoy probando que las modificaciones en la web git 
-- se repliquen en los archivos locales 
+- se pretende que sea un ayuda y recordatorio de como se va construyendo
+- ademas en la varias partes del codigo se dejan comentarios 
 
-- ahora funciona bien.  empeze de nuevo creando el repositorio
-- local de nuevo en otra carpeta
-
-- al  final me sale un error en git que no se porque
-- me sale mas rapido clonar de nuevo
-
-``` creo que ahora funciona ```   
-- cuando grabo todo lo ideal que solo uno de los programas este abierto al realizar comentarios y actualizaciones
-
-- hoy martes, sigo probando el funcionamiento de estas herramientas
-- pero ya hace hambre y la hora de almorzar  se acerca y todavia no tomo desayuno
-
-- 22-2-2024  desde casa pero ya a dormir.  
-
+- Saludos.
